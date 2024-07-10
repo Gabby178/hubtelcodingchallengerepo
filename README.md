@@ -4,9 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Introduction
+The One Page App is built using Flutter and showcases a clean and modern UI for displaying transaction history. The app includes a loading indicator during data fetch and presents the data in a well-structured format.
 
-A few resources to get you started if this is your first Flutter project:
+Features
+Initial loading screen with a circular progress indicator.
+Transaction history view.
+Bottom Navigation.
+
+Screenshots
+![alt text](image.png)
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
